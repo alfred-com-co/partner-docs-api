@@ -1,5 +1,7 @@
 # Operaciones de usuario
 
+[Volver al inicio](../index.md)
+
 Las siguientes son las operaciones habilitadas para ejecutar sobre el recurso usuario.
 
 > Es importante recordar que para hacer solicitudes al API se debe hacer uso de las llaves de acceso brindadas
@@ -99,4 +101,4 @@ Body:
     "activeMembership": false
 }
 ````
-
+[Volver al inicio](../index.md)
