@@ -4,7 +4,7 @@
 
 Las siguientes son las operaciones habilitadas para ejecutar sobre el recurso usuario.
 
-> Es importante recordar que para hacer solicitudes al API se debe hacer uso de las llaves de acceso brindadas
+> Es importante recordar que para hacer solicitudes al API se debe hacer uso de las llaves de acceso brindadas. Para dudas de las llaves y ambientes puede revisar [nuestra guía](../guides/environment.md).
 
 ## Búsqueda de usuario
 
