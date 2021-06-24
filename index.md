@@ -1,4 +1,4 @@
-# Documentación de API Alfred
+# Documentación de API para integración de terceros
 
 Versión 1.0.0
 
