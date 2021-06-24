@@ -2,10 +2,10 @@
 
 [Volver al inicio](../index.md)
 
-Alfred cuenta con dos ambientes para acceso por parte de los proveedores
+Alfred cuenta con dos ambientes para acceso por parte de terceros:
 
-- Sandbox: Es el ambiente de pruebas, el cual puedes usar para consultar o realizar solicitudes "falsas" sobre nuestra infraestructura. Su uso se recomienda mientras se esté desarrollando la integración y haciendo pruebas en tus servidores locales o de pruebas.
-- Producción: Es el ambiente sobre el cual se ejecutan operaciones reales.
+- **Sandbox**: Es el ambiente de pruebas, el cual puedes usar para consultar o realizar solicitudes "falsas" sobre nuestra infraestructura. Su uso se recomienda mientras se esté desarrollando la integración y haciendo pruebas en tus servidores locales o de pruebas.
+- **Producción**: Es el ambiente sobre el cual se ejecutan operaciones reales.
 
 Ambas URL's serán brindadas junto con las llaves de acceso a cada ambiente.
 
