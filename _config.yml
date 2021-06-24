@@ -1,1 +1,5 @@
+title: Documentación de API para terceros
+logo: /assets/img/logo.png
+description: Documentación para la integración de terceros a la plataforma de Alfred por medio de API. Versión 1.0.0
+show_downloads: false
 theme: jekyll-theme-minimal
