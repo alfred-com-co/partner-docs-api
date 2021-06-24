@@ -32,6 +32,7 @@ Las respuestas del servicio pueden ser las siguientes:
 | 200         | Objeto en json con la información de un usuario | En caso de que la consulta sea exitosa. |
 
 En el caso de que la consulta sea exitosa la respuesta será un objeto json con la siguiente información:
+
 ````
 { 
     "email": "...",
@@ -42,6 +43,7 @@ En el caso de que la consulta sea exitosa la respuesta será un objeto json con 
     "activeMembership": true
 }
 ````
+
 | Campo      | Tipo      | Descripción |
 | ----------- | ----------- | ----------- |
 | email       | Cadena de caracteres | Correo electrónico registrado por el usuario en nuestra plataforma |
@@ -76,6 +78,7 @@ Body:
 ````
 
 Consulta por número de identificación
+
 ````
 POST
 Body:
