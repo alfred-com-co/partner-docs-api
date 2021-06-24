@@ -13,9 +13,11 @@ Ambas URL's serán brindadas junto con las llaves de acceso a cada ambiente.
 
 Para acceder a cada ambiente, cada usuario cuenta con un par de llaves **privadas** que deben ser tratadas como un secreto y usarlas en ambientes de backend. 
 
-- La llave para acceder al ambiente de pruebas sigue el formato `test_<token>`, ejemplo: `test_Kw4aC0rZVgLZQn209NbEKPuXLzBD28Zx`
+- La llave para acceder al ambiente de pruebas sigue el formato `test_<token>`.
+  - ejemplo: `test_Kw4aC0rZVgLZQn209NbEKPuXLzBD28Zx`
 
-- La llave para acceder al ambiente de producción sigue el formato `prod_<token>`, ejemplo: `prod_Kw4aC0rZVgLZQn209NbEKPuXLzBD28Zx`
+- La llave para acceder al ambiente de producción sigue el formato `prod_<token>`.
+  - ejemplo: `prod_Kw4aC0rZVgLZQn209NbEKPuXLzBD28Zx`
 
 Cada llave puede ser utilizada únicamente en su ambiente y no son intercambiables.
 
