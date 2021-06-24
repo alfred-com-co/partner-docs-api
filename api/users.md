@@ -6,7 +6,6 @@ Las siguientes son las operaciones habilitadas para ejecutar sobre el recurso us
 
 ## Búsqueda de usuario
 
-| ----------- | ----------- |
 | Endpoint    | `/users`    |
 | Método      | `POST`      |
 
@@ -14,7 +13,6 @@ Para consultar un usuario se debe enviar un objeto json en el cuerpo de la petic
 ````
 { 'email': ... | 'idNumber': ... }
 ````
-| ----------- | ----------- |
 | email       | Cadena de texto |
 | Método      | Números         |
 
