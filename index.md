@@ -14,4 +14,4 @@ Para conectarse a nuestro API debe hacer uso de las llaves de autenticación bri
 
 ## API
 
-- [Consulta de usuarios](./api/users.md)
+- [Operaciones de usuarios](./api/users.md)
