@@ -13,9 +13,11 @@ Las siguientes son las operaciones habilitadas para ejecutar sobre el recurso us
 Para consultar un usuario se debe enviar un objeto json en el cuerpo de la petición con uno de los dos parámetros permitidos para búsquedas: correo electrónico o cédula.
 
 Esta operación hace uso del método POST para evitar enviar data sensible de los usuarios en la URL y dejar registro de la misma en el historial de herramientas de consulta o en logs de operación.
+
 ````
 { 'email': ... | 'idNumber': ... }
 ````
+
 | Parámetro   | Tipo de dato    |
 | ----------- | -----------     |
 | email       | Cadena de texto |
