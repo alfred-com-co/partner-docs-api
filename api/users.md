@@ -23,7 +23,7 @@ Esta operación hace uso del método POST para evitar enviar data sensible de lo
 | Parámetro   | Tipo de dato    |
 | ----------- | -----------     |
 | email       | Cadena de texto |
-| Método      | Números enteros sin puntos |
+| idNumber    | Números enteros sin puntos |
 
 Las respuestas del servicio pueden ser las siguientes:
 
