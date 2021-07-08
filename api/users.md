@@ -40,12 +40,12 @@ En el caso de que la consulta sea exitosa la respuesta será un objeto json con 
 ````
 {
     "count": 1,
-    "next": "<url>?page=2",
+    "next": "...?page=2",
     "previous": null,
     "results": [
         {
             "email": "...",
-            "idNumber": ...,
+            "idNumber": "...",
             "idType": "...",
             "firstName": "...",
             "lastName": "...",
@@ -89,7 +89,7 @@ Body:
     "results": [
         {
             "email": "ejemplo@prueba.com",
-            "idNumber": 1111111111,
+            "idNumber": "1111111111",
             "idType": "CC",
             "firstName": "Ejemplo",
             "lastName": "Prueba Documentación",
@@ -120,7 +120,7 @@ Body:
     "results": [
         {  
             "email": "ejemplo2@prueba.com",
-            "idNumber": 11111111,
+            "idNumber": "11111111",
             "idType": "CC",
             "firstName": "Ejemplo",
             "lastName": "Prueba Documentación",
